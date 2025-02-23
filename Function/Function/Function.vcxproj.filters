@@ -54,6 +54,12 @@
     <ClCompile Include="Calculator.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="StringFunction.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="UpperCase.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Calculator.h">

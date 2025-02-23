@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\cworks\\Function\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1D1498B0-170E-413F-B7FE-17230EC1DDCB}|Function\\Function.vcxproj|C:\\cworks\\Function\\Function\\UpperCase.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D1498B0-170E-413F-B7FE-17230EC1DDCB}|Function\\Function.vcxproj|solutionrelative:Function\\UpperCase.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1498B0-170E-413F-B7FE-17230EC1DDCB}|Function\\Function.vcxproj|C:\\cworks\\Function\\Function\\StringFunction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D1498B0-170E-413F-B7FE-17230EC1DDCB}|Function\\Function.vcxproj|solutionrelative:Function\\StringFunction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1D1498B0-170E-413F-B7FE-17230EC1DDCB}|Function\\Function.vcxproj|C:\\cworks\\Function\\Function\\CalculatorMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1D1498B0-170E-413F-B7FE-17230EC1DDCB}|Function\\Function.vcxproj|solutionrelative:Function\\CalculatorMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -22,11 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpperCase.c",
+              "DocumentMoniker": "C:\\cworks\\Function\\Function\\UpperCase.c",
+              "RelativeDocumentMoniker": "Function\\UpperCase.c",
+              "ToolTip": "C:\\cworks\\Function\\Function\\UpperCase.c",
+              "RelativeToolTip": "Function\\UpperCase.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-23T02:23:39.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "StringFunction.c",
+              "DocumentMoniker": "C:\\cworks\\Function\\Function\\StringFunction.c",
+              "RelativeDocumentMoniker": "Function\\StringFunction.c",
+              "ToolTip": "C:\\cworks\\Function\\Function\\StringFunction.c",
+              "RelativeToolTip": "Function\\StringFunction.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-23T01:44:51.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Calculator.h",
               "DocumentMoniker": "C:\\cworks\\Function\\Function\\Calculator.h",
               "RelativeDocumentMoniker": "Function\\Calculator.h",
@@ -34,12 +68,11 @@
               "RelativeToolTip": "Function\\Calculator.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-23T00:38:29.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T00:38:29.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Calculator.c",
               "DocumentMoniker": "C:\\cworks\\Function\\Function\\Calculator.c",
               "RelativeDocumentMoniker": "Function\\Calculator.c",
@@ -47,18 +80,17 @@
               "RelativeToolTip": "Function\\Calculator.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-23T00:36:58.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T00:36:58.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CalculatorMain.c",
               "DocumentMoniker": "C:\\cworks\\Function\\Function\\CalculatorMain.c",
               "RelativeDocumentMoniker": "Function\\CalculatorMain.c",
               "ToolTip": "C:\\cworks\\Function\\Function\\CalculatorMain.c",
               "RelativeToolTip": "Function\\CalculatorMain.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-23T00:31:08.079Z",
               "EditorCaption": ""

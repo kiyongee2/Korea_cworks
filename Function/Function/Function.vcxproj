@@ -139,7 +139,9 @@
     <ClCompile Include="SayHello.c" />
     <ClCompile Include="Square.c" />
     <ClCompile Include="StaticVar.c" />
+    <ClCompile Include="StringFunction.c" />
     <ClCompile Include="Time.c" />
+    <ClCompile Include="UpperCase.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Calculator.h" />
