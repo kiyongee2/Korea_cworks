@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD55AF0B-A620-4AD8-B9A2-E28801460530}|Arrays\\Arrays.vcxproj|C:\\cworks\\Arrays\\Arrays\\Array2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD55AF0B-A620-4AD8-B9A2-E28801460530}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\Array2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD55AF0B-A620-4AD8-B9A2-E28801460530}|Arrays\\Arrays.vcxproj|C:\\cworks\\Arrays\\Arrays\\ArrayString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD55AF0B-A620-4AD8-B9A2-E28801460530}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD55AF0B-A620-4AD8-B9A2-E28801460530}|Arrays\\Arrays.vcxproj|C:\\cworks\\Arrays\\Arrays\\Array1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD55AF0B-A620-4AD8-B9A2-E28801460530}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\Array1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD55AF0B-A620-4AD8-B9A2-E28801460530}|Arrays\\Arrays.vcxproj|C:\\cworks\\Arrays\\Arrays\\ArrayChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD55AF0B-A620-4AD8-B9A2-E28801460530}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Array2.c",
+              "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\Array2.c",
+              "RelativeDocumentMoniker": "Arrays\\Array2.c",
+              "ToolTip": "C:\\cworks\\Arrays\\Arrays\\Array2.c*",
+              "RelativeToolTip": "Arrays\\Array2.c*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-22T01:31:28.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayString.c",
+              "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\ArrayString.c",
+              "RelativeDocumentMoniker": "Arrays\\ArrayString.c",
+              "ToolTip": "C:\\cworks\\Arrays\\Arrays\\ArrayString.c",
+              "RelativeToolTip": "Arrays\\ArrayString.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-16T01:26:33.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArrayChar.c",
+              "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\ArrayChar.c",
+              "RelativeDocumentMoniker": "Arrays\\ArrayChar.c",
+              "ToolTip": "C:\\cworks\\Arrays\\Arrays\\ArrayChar.c",
+              "RelativeToolTip": "Arrays\\ArrayChar.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-16T01:02:21.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Array1.c",
+              "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\Array1.c",
+              "RelativeDocumentMoniker": "Arrays\\Array1.c",
+              "ToolTip": "C:\\cworks\\Arrays\\Arrays\\Array1.c",
+              "RelativeToolTip": "Arrays\\Array1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-16T00:17:53.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
