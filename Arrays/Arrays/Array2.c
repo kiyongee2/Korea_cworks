@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main_Array2()
 {
 	//요소가 5개인 정수형 배열  score 선언
 	int score[] = { 86, 70, 90, 70, 85 };
