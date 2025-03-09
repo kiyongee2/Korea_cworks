@@ -136,11 +136,14 @@
     <ClCompile Include="GlovalVar.c" />
     <ClCompile Include="LocalVar.c" />
     <ClCompile Include="Math.c" />
+    <ClCompile Include="Rand.c" />
     <ClCompile Include="SayHello.c" />
     <ClCompile Include="Square.c" />
     <ClCompile Include="StaticVar.c" />
     <ClCompile Include="StringFunction.c" />
+    <ClCompile Include="StringGetchar.c" />
     <ClCompile Include="Time.c" />
+    <ClCompile Include="TypingGame.c" />
     <ClCompile Include="UpperCase.c" />
   </ItemGroup>
   <ItemGroup>

@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Array1.c" />
     <ClCompile Include="Array2.c" />
+    <ClCompile Include="Array2D.c" />
     <ClCompile Include="ArrayAddRemove.c" />
     <ClCompile Include="ArrayAddRemove2.c" />
     <ClCompile Include="ArrayChar.c" />

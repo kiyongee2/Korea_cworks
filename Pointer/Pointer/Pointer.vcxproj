@@ -131,6 +131,7 @@
     <ClCompile Include="ChangeArray.c" />
     <ClCompile Include="Pointer.c" />
     <ClCompile Include="PointerArray.c" />
+    <ClCompile Include="PointerString.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
