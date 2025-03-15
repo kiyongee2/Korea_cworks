@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main_PointerString()
 {
 	//char word[] = "apple";  //문자열 - 1차원 배열
 	//printf("%s\n", word);
