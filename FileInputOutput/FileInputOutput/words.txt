@@ -1,0 +1,10 @@
+ant
+bear
+chicken
+cow
+dog
+elephant
+monkey
+lion
+tiger
+snake

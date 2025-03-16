@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\FileInputOutput\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4131CDC9-A736-489A-AC11-288B95809F7A}|FileInputOutput\\FileInputOutput.vcxproj|C:\\cworks\\FileInputOutput\\FileInputOutput\\FileRead3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4131CDC9-A736-489A-AC11-288B95809F7A}|FileInputOutput\\FileInputOutput.vcxproj|solutionrelative:FileInputOutput\\FileRead3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4131CDC9-A736-489A-AC11-288B95809F7A}|FileInputOutput\\FileInputOutput.vcxproj|C:\\cworks\\FileInputOutput\\FileInputOutput\\FileWrite3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4131CDC9-A736-489A-AC11-288B95809F7A}|FileInputOutput\\FileInputOutput.vcxproj|solutionrelative:FileInputOutput\\FileWrite3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4131CDC9-A736-489A-AC11-288B95809F7A}|FileInputOutput\\FileInputOutput.vcxproj|C:\\cworks\\FileInputOutput\\FileInputOutput\\FileWrite1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4131CDC9-A736-489A-AC11-288B95809F7A}|FileInputOutput\\FileInputOutput.vcxproj|solutionrelative:FileInputOutput\\FileWrite1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4131CDC9-A736-489A-AC11-288B95809F7A}|FileInputOutput\\FileInputOutput.vcxproj|C:\\cworks\\FileInputOutput\\FileInputOutput\\FileRead2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4131CDC9-A736-489A-AC11-288B95809F7A}|FileInputOutput\\FileInputOutput.vcxproj|solutionrelative:FileInputOutput\\FileRead2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4131CDC9-A736-489A-AC11-288B95809F7A}|FileInputOutput\\FileInputOutput.vcxproj|C:\\cworks\\FileInputOutput\\FileInputOutput\\FileWrite2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4131CDC9-A736-489A-AC11-288B95809F7A}|FileInputOutput\\FileInputOutput.vcxproj|solutionrelative:FileInputOutput\\FileWrite2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4131CDC9-A736-489A-AC11-288B95809F7A}|FileInputOutput\\FileInputOutput.vcxproj|C:\\cworks\\FileInputOutput\\FileInputOutput\\FileRead1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4131CDC9-A736-489A-AC11-288B95809F7A}|FileInputOutput\\FileInputOutput.vcxproj|solutionrelative:FileInputOutput\\FileRead1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileRead3.c",
+              "DocumentMoniker": "C:\\cworks\\FileInputOutput\\FileInputOutput\\FileRead3.c",
+              "RelativeDocumentMoniker": "FileInputOutput\\FileRead3.c",
+              "ToolTip": "C:\\cworks\\FileInputOutput\\FileInputOutput\\FileRead3.c",
+              "RelativeToolTip": "FileInputOutput\\FileRead3.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-16T02:44:08.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileWrite3.c",
+              "DocumentMoniker": "C:\\cworks\\FileInputOutput\\FileInputOutput\\FileWrite3.c",
+              "RelativeDocumentMoniker": "FileInputOutput\\FileWrite3.c",
+              "ToolTip": "C:\\cworks\\FileInputOutput\\FileInputOutput\\FileWrite3.c",
+              "RelativeToolTip": "FileInputOutput\\FileWrite3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-16T02:34:32.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileRead2.c",
+              "DocumentMoniker": "C:\\cworks\\FileInputOutput\\FileInputOutput\\FileRead2.c",
+              "RelativeDocumentMoniker": "FileInputOutput\\FileRead2.c",
+              "ToolTip": "C:\\cworks\\FileInputOutput\\FileInputOutput\\FileRead2.c",
+              "RelativeToolTip": "FileInputOutput\\FileRead2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-16T02:13:27.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileWrite2.c",
+              "DocumentMoniker": "C:\\cworks\\FileInputOutput\\FileInputOutput\\FileWrite2.c",
+              "RelativeDocumentMoniker": "FileInputOutput\\FileWrite2.c",
+              "ToolTip": "C:\\cworks\\FileInputOutput\\FileInputOutput\\FileWrite2.c",
+              "RelativeToolTip": "FileInputOutput\\FileWrite2.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-16T02:02:15.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileRead1.c",
+              "DocumentMoniker": "C:\\cworks\\FileInputOutput\\FileInputOutput\\FileRead1.c",
+              "RelativeDocumentMoniker": "FileInputOutput\\FileRead1.c",
+              "ToolTip": "C:\\cworks\\FileInputOutput\\FileInputOutput\\FileRead1.c",
+              "RelativeToolTip": "FileInputOutput\\FileRead1.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-16T01:35:14.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileWrite1.c",
+              "DocumentMoniker": "C:\\cworks\\FileInputOutput\\FileInputOutput\\FileWrite1.c",
+              "RelativeDocumentMoniker": "FileInputOutput\\FileWrite1.c",
+              "ToolTip": "C:\\cworks\\FileInputOutput\\FileInputOutput\\FileWrite1.c",
+              "RelativeToolTip": "FileInputOutput\\FileWrite1.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-16T01:20:37.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
